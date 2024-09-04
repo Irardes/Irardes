@@ -1,4 +1,4 @@
-# (Irardes) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Irardes <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 Eu sou <strong>Irardes</strong>, <strong>Estusiasta em Tecnologia e Esportes, atuamente estudante de Análise e Desenvolvimento de Sistemas </strong> 👨🏻‍💻 
 
