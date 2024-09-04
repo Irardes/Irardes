@@ -1,17 +1,21 @@
-- 👋 Hi, I’m @Irardes
-- 👀 I’m interested in sports data and software development. I'm currently Software Analysis and Development Student focusing now in JS, Python and DataBase.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a big fan of sports in general, mostly basketball and soccer. I also love work out in gym. 
+# [Irardes] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-<!---
-Irardes/Irardes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Eu sou <strong>Irardes</strong>, <strong>Estusiasta em Tecnologia e Esportes, atuamente estudante de Análise e Desenvolvimento de Sistemas </strong> 👨🏻‍💻 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://br.linkedin.com/in/irardes-santos-a5263820a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/irardes-santos-a5263820a" height="30" width="50" /></a>
-</p> 
+- 🚀 Atualmente estou aprendendo: <strong>JS, Python e MySQL</strong> 
+- 📣 Nós podemos falar em: <strong>Inglês e Português</strong>
+
+<div align="center">
+
+  <a href="#" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=(irardes@gmail.com)"/></a>
+
+  <a href="#" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://br.linkedin.com/in/irardes-santos-a5263820a)" /></a>
+
+
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="40"/> </a> </p>
