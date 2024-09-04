@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=(irardes@gmail.com)"/></a>
 
   <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN]https://br.linkedin.com/in/irardes-santos-a5263820a" /></a>
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=<a href="https://linkedin.com/in/https://www.linkedin.com/in/guilhermepereira-1/" target="blank">
 
 
 </div>
