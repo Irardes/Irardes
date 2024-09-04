@@ -7,11 +7,9 @@
 
 <div align="center">
 
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=(irardes@gmail.com)"/></a>
 
-  <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=<a href="https://linkedin.com/in/https://www.linkedin.com/in/guilhermepereira-1/" target="blank">
+<a href="https://linkedin.com/in/https://br.linkedin.com/in/irardes-santos-a5263820a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/irardes-santos-a5263820a" height="30" width="40" /></a>
+</p>
 
 
 </div>
