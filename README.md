@@ -7,10 +7,8 @@
 
 <div align="center">
 
-
-<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://br.linkedin.com/in/irardes-santos-a5263820a]" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/guilhermepereira-1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guilhermepereira-1/" height="30" width="40" /></a>
 </p>
-
 
 </div>
 
